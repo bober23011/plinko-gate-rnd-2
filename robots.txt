@@ -1,0 +1,24 @@
+
+User-agent: *
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: YandexBot
+User-agent: GPTBot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*?*
+Disallow: /*?page=
+Disallow: /cgi-bin*
+
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: MJ12bot
+User-agent: DotBot
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://plinko-gate-rnd-2.onrender.com/sitemap.xml
+
+User-agent: *
+Disallow: /go/
